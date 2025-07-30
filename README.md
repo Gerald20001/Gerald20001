@@ -17,7 +17,7 @@
 - 🔥 Java Core | OOP | Regex | Streams | Collections  
 - 🚧 Currently diving into: `Spring Boot`, `Spring Data`, `SQL`, `MongoDB`, `Java EE`  
 - 🎧 Creating terminal HUDs for Spotify with lyrics, covers, and visualizers  
-- 💬 I enjoy talking about: tech, anime, psychology, people, discipline  
+- 💬 I enjoy talking about: tech, psychology, people, discipline  
 
 ---
 
