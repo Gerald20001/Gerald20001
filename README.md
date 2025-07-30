@@ -1,3 +1,4 @@
+![cool gif](https://i.pinimg.com/originals/29/5d/ba/295dba78f8e4148215611aab4e03f93a.gif)
 <h1 align="center">Welcome, wanderer 👨‍💻</h1>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=I'm+Ihor+(Gerald20001);Backend+Developer+%7C+Student+%7C+Linux+Enjoyer;Learning+Java+Spring+every+day!" alt="Typing SVG" />
