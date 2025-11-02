@@ -93,7 +93,7 @@ interests:
 
 <p align="center">
   <a href="mailto:igorslobodan05@gmail.com"><img src="https://img.shields.io/badge/Gmail-igorslobodan05%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://t.me/WhoreInTheShell"><img src="https://img.shields.io/badge/Telegram-@WhoreInTheShell-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/crytracer"><img src="https://img.shields.io/badge/Telegram-@WhoreInTheShell-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Discord-Griffith__2001-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
