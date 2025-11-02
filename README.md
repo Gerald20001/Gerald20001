@@ -1,12 +1,12 @@
 <h1 align="center">Welcome, wanderer 👨‍💻</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=435&lines=I'm+Ihor+(Gerald20001);Backend+Developer+%7C+Student+%7C+Linux+Enjoyer;Learning+Java+Spring+every+day!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&width=480&lines=I'm+Ihor+(Gerald20001);Full+Stack+Developer+%7C+JS%2FTS+Enthusiast;Building+beautiful+logic+and+clean+UI;Linux+%7C+Terminal+%7C+Creativity" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  ⚙️ Java Dev in progress • 🧠 Code addict • 🇺🇦 Born to build <br>
-  🐧 Arch Linux / Hyprland user • 🎧 Terminal + Cava enjoyer <br>
-  🧪 Building: bots, terminal UIs, backends and beautiful logic
+  ⚙️ Full-Stack Developer in progress • 🧠 Code addict • 🇺🇦 Born to build <br>
+  🐧 Arch Linux / Hyprland user • 🎨 Frontend minimalist • 🧩 Backend tinkerer <br>
+  💡 Passion for clean design, powerful logic, and expressive code
 </p>
 
 ---
@@ -14,42 +14,61 @@
 ### 🧠 About Me
 
 - 🎓 2-year CS student @ VNTU  
-- 🔥 Java Core | OOP | Regex | Streams | Collections  
-- 🚧 Currently diving into: `Spring Boot`, `Spring Data`, `SQL`, `MongoDB`, `Java EE`  
-- 🎧 Creating terminal HUDs for Spotify with lyrics, covers, and visualizers  
-- 💬 I enjoy talking about: tech, psychology, people, discipline  
+- 💻 From Java backend → into the JS/TS universe  
+- 🚀 Exploring: `React`, `Next.js`, `Node.js`, `Express`, `MongoDB`, `PostgreSQL`  
+- 🎧 Still love building terminal tools (HUDs, bots, visualizers)  
+- 💬 Topics I enjoy: web dev, tech philosophy, UI/UX, productivity  
 
 ---
 
-### ⚙️ Tech I Use
+### ⚙️ Tech Stack
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <!-- Core -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" />
+</p>
+
+<p align="center">
+  <!-- Databases + Tools -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+### 🧩 Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| 🎧 `Spotify Terminal HUD` | Real-time lyrics + audio visualizer + metadata for your music — built with shell & Python |
-| 🧪 `Regex Validator CLI` | Console Java app for validating emails, IPs, dates, and more |
-| 👤 `People Manager` | Desktop app (Electron + JSON) for managing people in a minimal interface |
+|----------|-------------|
+| ⚡ `Portfolio` | A personal portfolio built with **Next.js + Tailwind**, smooth animations & responsive UI |
+| 💬 `ChatHub` | Real-time chat app using **Node.js + WebSocket + MongoDB** |
+| 🧠 `CodeNotes` | Markdown-based note manager built with **React + LocalStorage** |
+| 🧪 `Spotify Terminal HUD` | Real-time lyrics + covers + audio visualization in terminal |
+| 🧰 `People Manager` | Desktop app (Electron + JSON) to manage data with a clean UI |
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gerald20001&show_icons=true&theme=tokyonight&hide=issues&count_private=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald20001&layout=compact&theme=tokyonight&hide=html" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gerald20001&layout=compact&theme=tokyonight&hide=java" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gerald20001&theme=tokyo-night&area=true"/>
 </p>
 
 ---
@@ -62,12 +81,8 @@
   <img src="https://img.shields.io/badge/Discord-Griffith__2001-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gerald20001&theme=tokyo-night&area=true"/>
-</p>
-
 ---
 
 <p align="center">
-  Made with ❤️ by Gerald20001 (aka Ihor)
+  Made with ❤️ & a terminal by <b>Gerald20001</b> (aka Ihor)
 </p>
