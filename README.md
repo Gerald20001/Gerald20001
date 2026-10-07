@@ -16,7 +16,7 @@
 // test/suites/candidate_profile.spec.ts
 import { test, expect } from '@playwright/test';
 
-test.describe('Candidate Profile: Ihor Slobodyan (Gerald20001)', () => {
+test.describe('Candidate Profile: Ihor Slobodian (Gerald20001)', () => {
   test('verifies software engineering roots & QA mindset', async ({ candidate }) => {
     expect(candidate.role).toBe('QA Engineer / SDET');
     expect(candidate.mindset).toBe('Shift-Left: Break it in development, never in production');
