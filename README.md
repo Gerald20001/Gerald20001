@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Gerald20001">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=220&section=header&text=IHOR%20SLOBODYAN&fontSize=42&fontAlignY=36&desc=QA%20ENGINEER%20%2F%20SDET%20%E2%80%A2%20TEST%20AUTOMATION%20SPECIALIST&descFontSize=16&descAlignY=58&fontColor=ffffff&descColor=00F7FF" width="100%" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,24,30&height=220&section=header&text=IHOR%20slobodian&fontSize=42&fontAlignY=36&desc=QA%20ENGINEER%20%2F%20SDET%20%E2%80%A2%20TEST%20AUTOMATION%20SPECIALIST&descFontSize=16&descAlignY=58&fontColor=ffffff&descColor=00F7FF" width="100%" />
   </a>
 </div>
 
@@ -158,7 +158,7 @@ test.describe('Candidate Profile: Ihor Slobodian (Gerald20001)', () => {
 ### 🤝 Connect & Collaborate
 
 ```bash
-$ curl -X POST https://api.slobodyan.io/v1/collaborate \
+$ curl -X POST https://api.slobodian.io/v1/collaborate \
   -H "Content-Type: application/json" \
   -d '{"status": "Ready for high-impact QA / SDET challenges"}'
 ```
